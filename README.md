@@ -1,6 +1,6 @@
 # FamousGroupInCBIR
 
-This page is used to collect famous groups and researches (in my opinion) in the CBIR field.
+This page is used as a bookmark to collect famous groups and researches (in my opinion) in the CBIR field.
 
 ## UK
 
