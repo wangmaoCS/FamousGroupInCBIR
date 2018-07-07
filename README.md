@@ -2,14 +2,14 @@
 
 This page is used to collect famous groups and researches (in my opinion) in the CBIR field.
 
-##UK
+## UK
 
 ### DR KRYSTIANMIKOLAJCZYK
 publication page: http://www.imperial.ac.uk/people/k.mikolajczyk/publications.html
 
-##CZ
+## CZ
 
-##US
+## US
 
-##JP
+## JP
 
